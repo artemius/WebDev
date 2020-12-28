@@ -28,7 +28,7 @@ section.xo, section.alone-together, section.links{
 	margin-top: 50px;
 }
 
-.header-text, .section-text{
-	color:white;
+.negative{
+	color: white;
 	background: black;
 }
