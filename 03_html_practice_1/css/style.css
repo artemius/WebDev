@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page{
+	margin: 88px 296px 93px 65px;
+}
+
+.header-text{
+   	margin-bottom:50px;
+}
+
+.image-container{
+	margin-bottom: 50px;
+}
+
+.menu-container, .links-container{
+	padding-left:13px;
+	margin-bottom: 50px;
+}
+
+.section-text{
+	margin-bottom: 50px;
+}
+
+section.xo, section.alone-together, section.links{
+	margin-top: 50px;
+}
+
+.header-text, .section-text{
+	color:white;
+	background: black;
+}
