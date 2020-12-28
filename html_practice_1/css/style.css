@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page{
+	margin: 88px 296px 93px 65px;
+}
+
+.headerText{
+   	margin-bottom:50px;
+}
+
+.imageContainer{
+	margin-bottom: 50px;
+}
+
+.menuContainer{
+	padding-left:13px;
+	margin-bottom: 50px;
+}
+
+.mainText{
+	padding-left:13px;
+}
